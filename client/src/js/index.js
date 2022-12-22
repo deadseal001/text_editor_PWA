@@ -17,9 +17,9 @@ const loadSpinner = () => {
   main.appendChild(spinner);
 };
 
-const editor = new Editor();
+const ds = new Editor();
 
-if (typeof editor === 'undefined') {
+if (typeof Editor === 'undefined') {
   loadSpinner();
 }
 

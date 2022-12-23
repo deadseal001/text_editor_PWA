@@ -50,6 +50,7 @@ npm packages:
 Wenbo Li, GitHub: https://github.com/deadseal001
 
 ## Screenshot
+<img width="1429" alt="Screenshot 2022-12-22 at 11 19 42 PM" src="https://user-images.githubusercontent.com/110753777/209276085-75297e3b-89df-454e-be1a-43f28951ae90.png">
 
 
 ## Heroku_Link
